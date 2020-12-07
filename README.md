@@ -18,8 +18,8 @@
 </p>
 
 ### Dependencies
-* Flutter Framework
-* Dart 
+* Flutter SDK
+* Dart Compiler
 * Virtual Machine with OS(Preferred Linux OS)
-* Docker 
+* Docker
 * Android Emulator/ Android Device
