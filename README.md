@@ -1,16 +1,25 @@
-# docker_app
+# Docker Application
 
-A new Flutter project.
+## This Application is used to run Docker Commands.
 
-## Getting Started
+### Four basic commands of Docker are Used:
+* Pull Image from Docker Hub
+* Run Container
+* Check Container State
+* Remove the Container
 
-This project is a starting point for a Flutter application.
+### Sample Images
 
-A few resources to get you started if this is your first Flutter project:
+<p style="float: left">
+    <img src="/preview-images/Home.PNG" width="24%" />
+    <img src="/preview-images/pull.PNG" width="24%" />
+    <img src="/preview-images/run.PNG" width="24%" />
+    <img src="/preview-images/remove.PNG" width="24%" />
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Dependencies
+* Flutter Framework
+* Dart 
+* Virtual Machine with OS(Preferred Linux OS)
+* Docker 
+* Android Emulator/ Android Device
