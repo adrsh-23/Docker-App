@@ -2,7 +2,7 @@
 
 ## This Application is used to run Docker Commands.
 
-### Four basic commands of Docker are Used:
+### Four basic commands of Docker that are Used:
 * Pull Image from Docker Hub
 * Run Container
 * Check Container State
