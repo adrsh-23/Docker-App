@@ -20,6 +20,6 @@
 ### Dependencies
 * Flutter SDK
 * Dart Compiler
-* Virtual Machine with OS(Preferred Linux OS)
+* Local Virtual Machine/Cloud instance with OS(Preferred Linux OS)
 * Docker
 * Android Emulator/ Android Device
